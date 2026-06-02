@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/will/projects/particle/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

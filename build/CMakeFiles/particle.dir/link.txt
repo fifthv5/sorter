@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/particle.dir/link.d CMakeFiles/particle.dir/Main.cpp.o -o particle  /usr/lib/libraylib.so.6.0.0 -lm
